@@ -1,6 +1,6 @@
 # Scimagin Website
 
-[![Slack](https://bootstrap-slack.herokuapp.com/badge.svg)](https://bootstrap-slack.herokuapp.com)
+[![Slack](https://scimagin-slack.herokuapp.com/badge.svg)](https://bootstrap-slack.herokuapp.com)
 
 **Development website :** https://scimagin.github.io/website/
 
