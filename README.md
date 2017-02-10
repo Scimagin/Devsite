@@ -1,7 +1,5 @@
 # Scimagin Website
 
-[![Slack](https://scimagin-slack.herokuapp.com/badge.svg)](https://bootstrap-slack.herokuapp.com)
-
 **Development website :** https://scimagin.github.io/website/
 
 <h3>Version</h3>
