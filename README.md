@@ -1,6 +1,6 @@
 # Scimagin Website
 
-**Development website :** https://scimagin.github.io/website/
+**Development website :** https://scimagin.github.io/Devsite/
 
 <h3>Version</h3>
 
