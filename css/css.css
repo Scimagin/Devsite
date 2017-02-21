@@ -192,7 +192,7 @@ header .device-container .screen img {
     min-height: 100%;
   }
   header .header-content {
-    text-align: left;
+    text-align: center;
     padding: 0;
     height: 100vh;
   }
